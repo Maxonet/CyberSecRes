@@ -93,4 +93,4 @@ https://www.vulnhub.com/
 https://hackmyvm.eu/
 
 **Webgoat**
-https://owasp.org/www-project-webgoat/
+<a href="https://owasp.org/www-project-webgoat/" target="_blank">Webgoat by OWASP</a>
