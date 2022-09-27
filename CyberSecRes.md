@@ -55,3 +55,38 @@ https://blueteamlabs.online/
 Cybrary’s accessible, affordable platform provides guided pathways, threat-informed training, and certification preparation to fully equip cybersecurity professionals at every stage in their careers to skill up and confidently mitigate threats.
 
 https://www.cybrary.it/
+
+
+## **Links to Online Cyber Security Training and Games**
+
+**TryHackMe**
+https://tryhackme.com/
+
+**Hack the Box**
+https://www.hackthebox.com/
+
+**picoCTF**
+https://picoctf.org/
+
+**Vulnmachines**
+https://www.vulnmachines.com/
+
+**Pentester Lab**
+Very limited amount of free rooms
+https://pentesterlab.com/
+
+**Try2hack**
+https://try2hack.me/
+
+
+## **Links to Training Virtual Machines with Vulnerabilities**
+
+**VulnHub**
+VMs with vulnerabilities
+https://www.vulnhub.com/
+
+**HackMyVm**
+https://hackmyvm.eu/
+
+**Webgoat**
+https://owasp.org/www-project-webgoat/
