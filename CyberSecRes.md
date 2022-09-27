@@ -90,7 +90,7 @@ VMs with vulnerabilities
 https://www.vulnhub.com/
 
 **HackMyVm**
-https://hackmyvm.eu/
+<a href="https://hackmyvm.eu/" target="_blank">Hack My VM</a>
 
 **Webgoat**
 <a href="https://owasp.org/www-project-webgoat/" target="_blank">Webgoat by OWASP</a>
