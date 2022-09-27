@@ -85,12 +85,12 @@ https://try2hack.me/
 
 ## **Links to Training Virtual Machines with Vulnerabilities**
 
-**VulnHub**
+**VulnHub**:
 VMs with vulnerabilities
-https://www.vulnhub.com/
+<a href="https://www.vulnhub.com/" target="_blank">VulnHub</a>
 
-**HackMyVm**
+**HackMyVm**:
 <a href="https://hackmyvm.eu/" target="_blank">Hack My VM</a>
 
-**Webgoat**
+**Webgoat**:
 <a href="https://owasp.org/www-project-webgoat/" target="_blank">Webgoat by OWASP</a>
