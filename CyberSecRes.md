@@ -4,90 +4,84 @@
 
 **AttackIQ Academy**:
 
-<a href="https://academy.attackiq.com/" target="_blank">AttackIQ Academy</a>
+AttackIQ Academy: [Link](https://academy.attackiq.com/ "AttackIQ Academy").
 
-<a href="https://academy.attackiq.com/catalog?labels=%5B%5D&page=1&values=%5B%5D" target="_blank">AttackIQ Academy Catalog</a>
+AttackIQ Academy Catalog: [Link](https://academy.attackiq.com/catalog?labels=%5B%5D&page=1&values=%5B%5D "AttackIQ Academy Catalog").
 
 **eLearnSecurity/INE**:
 
-<a href="https://ine.com/" target="_blank">INE</a>
-
-<a href="https://elearnsecurity.com" target="_blank">eLearnSecurity</a>
+INE: [Link](https://ine.com/ "INE").
+eLearnSecurity: [Link](https://elearnsecurity.com "eLearnSecurity").
 
 **HackTheBox Academy**:
-<a href="https://academy.hackthebox.com/" target="_blank">HackTheBox Academy</a>
+[Link](https://academy.hackthebox.com/ "HackTheBox Academy").
 
 **Offensive Security**:
-<a href="https://www.offensive-security.com/" target="_blank">Offensive Security</a>
+[Link](https://www.offensive-security.com/ "Offensive Security").
 
 **Security Blue Team**:
-<a href="https://securityblue.team/" target="_blank">Security Blue Team</a>
+[Link](https://securityblue.team/ "Security Blue Team").
 
 **Portswigger Web Security Academy**:
 
 Free, online web security training from the creators of Burp Suite
-<a href="https://portswigger.net/web-security" target="_blank">Portswigger Web Security Academy</a>
+[Link](https://portswigger.net/web-security "Portswigger Web Security Academy").
 
 **Hacker101**:
 
 Hacker101 is a free class for web security.
-<a href="https://www.hacker101.com/" target="_blank">Hacker101</a>
+[Link](https://www.hacker101.com/ "Hacker101").
 
 **Cyber Defenders**:
 
 A training platform for  BlueTeams
-<a href="https://cyberdefenders.org/" target="_blank">Cyber Defenders</a>
+[Link](https://cyberdefenders.org/ "Cyber Defenders").
 
 **Blue Team Labs Online**:
 
 A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.  
 Free and paid tiers available.
-
-<a href="https://blueteamlabs.online/" target="_blank">Blue Team Labs Online</a>
+[Link](https://blueteamlabs.online/ "Blue Team Labs Online").
 
 **Cybrary**:
 
 Cybrary’s accessible, affordable platform provides guided pathways, threat-informed training, and certification preparation to fully equip cybersecurity professionals at every stage in their careers to skill up and confidently mitigate threats.
-
-<a href="https://www.cybrary.it/" target="_blank">Cybrary</a>
+[Link](https://www.cybrary.it/ "Cybrary").
 
 **TCM Security Academy**:
-<a href="https://academy.tcm-sec.com/" target="_blank">TCM Security Academy</a>
+[Link](https://academy.tcm-sec.com/ "TCM Security Academy").
 
 
 ## **Links to Online Cyber Security Training and Games**
 
 **TryHackMe**:
-<a href="https://tryhackme.com/" target="_blank">TryHackMe</a>
+[Link](https://tryhackme.com/ "TryHackMe").
 
 **Hack the Box**:
-<a href="https://www.hackthebox.com/" target="_blank">Hack the Box</a>
+[Link](https://www.hackthebox.com/ "Hack the Box").
 
 **picoCTF**:
-<a href="https://picoctf.org/" target="_blank">picoCTF</a>
+[Link](https://picoctf.org/ "picoCTF").
 
 **Vulnmachines**:
-<a href="https://www.vulnmachines.com/" target="_blank">Vulnmachines</a>
+[Link](https://www.vulnmachines.com/ "Vulnmachines").
 
 **Pentester Lab**:
 Very limited amount of free rooms
-<a href="https://pentesterlab.com/" target="_blank">Pentester Lab</a>
+[Link](https://pentesterlab.com/ "Pentester Lab").
 
 **Try2hack**:
-<a href="https://try2hack.me/" target="_blank">Try2hack</a>
+[Link](https://try2hack.me/ "Try2hack").
 
 
 ## **Links to Training Virtual Machines with Vulnerabilities**
 
 **VulnHub**:
 VMs with vulnerabilities
-<a href="https://www.vulnhub.com/" target="_blank">VulnHub</a>
+[Link](https://www.vulnhub.com/ "VulnHub").
 
 **HackMyVm**:
-<a href="https://hackmyvm.eu/" target="_blank">Hack My VM</a>
+[Link](https://hackmyvm.eu/ "Hack My VM").
 
 **Webgoat**:
-<a href="https://owasp.org/www-project-webgoat/" target="_blank">Webgoat by OWASP</a>
-
-**TEST**:
-Here is a [Link](https://owasp.org/www-project-webgoat/ "Webgoat by OWASP").
+[Link](https://owasp.org/www-project-webgoat/ "Webgoat by OWASP").
