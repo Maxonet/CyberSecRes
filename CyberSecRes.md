@@ -2,85 +2,79 @@
 
 ## **Links to Cyber Security Educational content**
 
-**AttackIQ Academy**
+**AttackIQ Academy**:
 
-https://academy.attackiq.com/
+<a href="https://academy.attackiq.com/" target="_blank">AttackIQ Academy</a>
 
-https://academy.attackiq.com/catalog?labels=%5B%5D&page=1&values=%5B%5D
+<a href="https://academy.attackiq.com/catalog?labels=%5B%5D&page=1&values=%5B%5D" target="_blank">AttackIQ Academy Catalog</a>
 
-**eLearnSecurity/INE**
+**eLearnSecurity/INE**:
 
-https://ine.com/
-https://elearnsecurity.com
+<a href="https://ine.com/" target="_blank">INE</a>
 
-**HackTheBox Academy**
+<a href="https://elearnsecurity.com" target="_blank">eLearnSecurity</a>
 
-https://academy.hackthebox.com/
+**HackTheBox Academy**:
+<a href="https://academy.hackthebox.com/" target="_blank">HackTheBox Academy</a>
 
-**Offensive Security**
+**Offensive Security**:
+<a href="https://www.offensive-security.com/" target="_blank">Offensive Security</a>
 
-https://www.offensive-security.com/
+**Security Blue Team**:
+<a href="https://securityblue.team/" target="_blank">Security Blue Team</a>
 
-**Security Blue Team**
-
-https://securityblue.team/
-
-**Portswigger Web Security Academy**
+**Portswigger Web Security Academy**:
 
 Free, online web security training from the creators of Burp Suite
+<a href="https://portswigger.net/web-security" target="_blank">Portswigger Web Security Academy</a>
 
-https://portswigger.net/web-security
-
-**Hacker101**
+**Hacker101**:
 
 Hacker101 is a free class for web security.
+<a href="https://www.hacker101.com/" target="_blank">Hacker101</a>
 
-https://www.hacker101.com/
-
-**Cyber Defenders**
+**Cyber Defenders**:
 
 A training platform for  BlueTeams
+<a href="https://cyberdefenders.org/" target="_blank">Cyber Defenders</a>
 
-https://cyberdefenders.org/
-
-**Blue Team Labs Online**
+**Blue Team Labs Online**:
 
 A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.  
 Free and paid tiers available.
 
-https://blueteamlabs.online/
+<a href="https://blueteamlabs.online/" target="_blank">Blue Team Labs Online</a>
 
-**Cybrary**
+**Cybrary**:
 
 Cybrary’s accessible, affordable platform provides guided pathways, threat-informed training, and certification preparation to fully equip cybersecurity professionals at every stage in their careers to skill up and confidently mitigate threats.
 
-https://www.cybrary.it/
+<a href="https://www.cybrary.it/" target="_blank">Cybrary</a>
 
-**TCM Security Academy**
-
-https://academy.tcm-sec.com/
+**TCM Security Academy**:
+<a href="https://academy.tcm-sec.com/" target="_blank">TCM Security Academy</a>
 
 
 ## **Links to Online Cyber Security Training and Games**
 
-**TryHackMe**
-https://tryhackme.com/
+**TryHackMe**:
+<a href="https://tryhackme.com/" target="_blank">TryHackMe</a>
 
-**Hack the Box**
-https://www.hackthebox.com/
+**Hack the Box**:
+<a href="https://www.hackthebox.com/" target="_blank">Hack the Box</a>
 
-**picoCTF**
-https://picoctf.org/
+**picoCTF**:
+<a href="https://picoctf.org/" target="_blank">picoCTF</a>
 
-**Vulnmachines**
-https://www.vulnmachines.com/
+**Vulnmachines**:
+<a href="https://www.vulnmachines.com/" target="_blank">Vulnmachines</a>
 
-**Pentester Lab**
+**Pentester Lab**:
 Very limited amount of free rooms
-https://pentesterlab.com/
+<a href="https://pentesterlab.com/" target="_blank">Pentester Lab</a>
 
-**Try2hack**
-https://try2hack.me/
+**Try2hack**:
+<a href="https://try2hack.me/" target="_blank">Try2hack</a>
 
 
 ## **Links to Training Virtual Machines with Vulnerabilities**
@@ -94,3 +88,6 @@ VMs with vulnerabilities
 
 **Webgoat**:
 <a href="https://owasp.org/www-project-webgoat/" target="_blank">Webgoat by OWASP</a>
+
+**TEST**:
+Here is a [Link](https://owasp.org/www-project-webgoat/ "Webgoat by OWASP").
