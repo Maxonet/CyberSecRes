@@ -2,53 +2,42 @@
 
 ## <u>**Links to Cyber Security Educational content**</u>
 
-**AttackIQ Academy**:
-
-AttackIQ Academy: [Link](https://academy.attackiq.com/ "AttackIQ Academy").
-
+* **AttackIQ Academy** - 
+AttackIQ Academy: [Link](https://academy.attackiq.com/ "AttackIQ Academy"). 
 AttackIQ Academy Catalog: [Link](https://academy.attackiq.com/catalog?labels=%5B%5D&page=1&values=%5B%5D "AttackIQ Academy Catalog").
 
-**eLearnSecurity/INE**:
+* **eLearnSecurity/INE** - 
+INE: [Link 1](https://ine.com/ "INE"). 
+eLearnSecurity: [Link 2](https://elearnsecurity.com "eLearnSecurity").
 
-INE: [Link](https://ine.com/ "INE").
-eLearnSecurity: [Link](https://elearnsecurity.com "eLearnSecurity").
-
-**HackTheBox Academy**:
+* **HackTheBox Academy** - 
 [Link](https://academy.hackthebox.com/ "HackTheBox Academy").
 
-**Offensive Security**:
+* **Offensive Security** - 
 [Link](https://www.offensive-security.com/ "Offensive Security").
 
-**Security Blue Team**:
+* **Security Blue Team** - 
 [Link](https://securityblue.team/ "Security Blue Team").
 
-**Portswigger Web Security Academy**:
-
-Free, online web security training from the creators of Burp Suite
+* **Portswigger Web Security Academy** - Free, online web security training from the creators of Burp Suite.
 [Link](https://portswigger.net/web-security "Portswigger Web Security Academy").
 
-**Hacker101**:
-
-Hacker101 is a free class for web security.
+* **Hacker101** - Hacker101 is a free class for web security.
 [Link](https://www.hacker101.com/ "Hacker101").
 
-**Cyber Defenders**:
-
-A training platform for  BlueTeams
+* **Cyber Defenders** - A training platform for  BlueTeams.
 [Link](https://cyberdefenders.org/ "Cyber Defenders").
 
-**Blue Team Labs Online**:
-
+* **Blue Team Labs Online** - 
 A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.  
 Free and paid tiers available.
 [Link](https://blueteamlabs.online/ "Blue Team Labs Online").
 
-**Cybrary**:
-
+* **Cybrary** - 
 Cybrary’s accessible, affordable platform provides guided pathways, threat-informed training, and certification preparation to fully equip cybersecurity professionals at every stage in their careers to skill up and confidently mitigate threats.
 [Link](https://www.cybrary.it/ "Cybrary").
 
-**TCM Security Academy**:
+* **TCM Security Academy** - 
 [Link](https://academy.tcm-sec.com/ "TCM Security Academy").
 
 
