@@ -1,9 +1,9 @@
 # **Cyber Security Resources**
 
-[Cyber Security Educational content](#ucyber-security-educational-contentu) | 
-[Online Cyber Security Training and Games](#uonline-cyber-security-training-and-gamesu) | 
-[Virtual Machines with Vulnerabilities](#uvirtual-machines-with-vulnerabilitiesu) | 
-[Cyber Security Search Engines](#ucyber-security-search-enginesu)
+[Cyber Security Educational content](#cyber-security-educational-content) | 
+[Online Cyber Security Training and Games](#online-cyber-security-training-and-games) | 
+[Virtual Machines with Vulnerabilities](#virtual-machines-with-vulnerabilities) | 
+[Cyber Security Search Engines](#cyber-security-search-engines)
 
 ## <u>**Cyber Security Educational content**</u>
 
