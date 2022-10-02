@@ -5,7 +5,7 @@
 [Virtual Machines with Vulnerabilities](#virtual-machines-with-vulnerabilities) | 
 [Cyber Security Search Engines](#cyber-security-search-engines)
 
-## <u>**Cyber Security Educational content**</u>
+## **Cyber Security Educational content**
 
 * **AttackIQ Academy** - 
 AttackIQ Academy: [Link](https://academy.attackiq.com/ "AttackIQ Academy"). 
@@ -46,7 +46,7 @@ Cybrary’s accessible, affordable platform provides guided pathways, threat-inf
 [Link](https://academy.tcm-sec.com/ "TCM Security Academy").
 
 
-## <u>**Online Cyber Security Training and Games**</u>
+## **Online Cyber Security Training and Games**
 
 * **TryHackMe** - 
 [Link](https://tryhackme.com/ "TryHackMe").
@@ -67,7 +67,7 @@ Cybrary’s accessible, affordable platform provides guided pathways, threat-inf
 [Link](https://try2hack.me/ "Try2hack").
 
 
-## <u>**Virtual Machines with Vulnerabilities**</u>
+## **Virtual Machines with Vulnerabilities**
 
 * **VulnHub** - VMs with vulnerabilities
 [Link](https://www.vulnhub.com/ "VulnHub").
@@ -78,7 +78,7 @@ Cybrary’s accessible, affordable platform provides guided pathways, threat-inf
 * **Webgoat** - 
 [Link](https://owasp.org/www-project-webgoat/ "Webgoat by OWASP").
 
-## <u>**Cyber Security Search Engines**</u>
+## **Cyber Security Search Engines**
 
 * **Dehashed** - View leaked credentials. 
 [Link](https://www.dehashed.com/ "Dehashed").
