@@ -1,6 +1,6 @@
 # **Cyber Security Resources**
 
-## <u>**Links to Cyber Security Educational content**</u>
+## <u>**Cyber Security Educational content**</u>
 
 * **AttackIQ Academy** - 
 AttackIQ Academy: [Link](https://academy.attackiq.com/ "AttackIQ Academy"). 
@@ -41,7 +41,7 @@ Cybrary’s accessible, affordable platform provides guided pathways, threat-inf
 [Link](https://academy.tcm-sec.com/ "TCM Security Academy").
 
 
-## <u>**Links to Online Cyber Security Training and Games**</u>
+## <u>**Online Cyber Security Training and Games**</u>
 
 * **TryHackMe** - 
 [Link](https://tryhackme.com/ "TryHackMe").
@@ -62,7 +62,7 @@ Cybrary’s accessible, affordable platform provides guided pathways, threat-inf
 [Link](https://try2hack.me/ "Try2hack").
 
 
-## <u>**Links to Training Virtual Machines with Vulnerabilities**</u>
+## <u>**Training Virtual Machines with Vulnerabilities**</u>
 
 * **VulnHub** - VMs with vulnerabilities
 [Link](https://www.vulnhub.com/ "VulnHub").
