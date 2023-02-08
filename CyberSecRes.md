@@ -1,10 +1,16 @@
 # **Cyber Security Resources**
 
-[Cyber Security Educational content](#cyber-security-educational-content) | 
-[Cyber Security Training and Games](#online-cyber-security-training-and-games) | 
-[Virtual Machines with Vulnerabilities](#virtual-machines-with-vulnerabilities) | 
-[Cyber Security Search Engines](#cyber-security-search-engines) | 
-[Free Cyber Security Systems and Services](#free-cyber-security-systems-and-services) | [Sandboxes](#sandboxes) | [OSINT](#osint)
+# Content
+
+- [**Cyber Security Resources**](#cyber-security-resources)
+- [Content](#content)
+  - [**Cyber Security Educational content**](#cyber-security-educational-content)
+  - [**Cyber Security Training and Games**](#cyber-security-training-and-games)
+  - [**Virtual Machines with Vulnerabilities**](#virtual-machines-with-vulnerabilities)
+  - [**Cyber Security Search Engines**](#cyber-security-search-engines)
+  - [**Free Cyber Security Systems and Services**](#free-cyber-security-systems-and-services)
+  - [**Sandboxes**](#sandboxes)
+  - [**OSINT**](#osint)
 
 ## **Cyber Security Educational content**
 
