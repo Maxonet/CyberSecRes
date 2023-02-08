@@ -1,10 +1,10 @@
 # **Cyber Security Resources**
 
 [Cyber Security Educational content](#cyber-security-educational-content) | 
-[Online Cyber Security Training and Games](#online-cyber-security-training-and-games) | 
+[Cyber Security Training and Games](#online-cyber-security-training-and-games) | 
 [Virtual Machines with Vulnerabilities](#virtual-machines-with-vulnerabilities) | 
 [Cyber Security Search Engines](#cyber-security-search-engines) | 
-[Free Cyber Security Systems and Services](#free-cyber-security-systems-and-services) | [Sandboxes](#sandboxes)
+[Free Cyber Security Systems and Services](#free-cyber-security-systems-and-services) | [Sandboxes](#sandboxes) | [OSINT](#osint)
 
 ## **Cyber Security Educational content**
 
@@ -47,7 +47,7 @@ Cybrary’s accessible, affordable platform provides guided pathways, threat-inf
 [Link](https://academy.tcm-sec.com/ "TCM Security Academy").
 
 
-## **Online Cyber Security Training and Games**
+## **Cyber Security Training and Games**
 
 * **TryHackMe** - 
 [Link](https://tryhackme.com/ "TryHackMe").
@@ -237,22 +237,33 @@ Developer Platform - Workers and Pages
 [Link 1](https://www.openidentityplatform.org/ "Open Identity Platform").
 [Link 2](https://github.com/OpenIdentityPlatform "Github Open Identity Platform").
 
+* **Canary Tokens** - Create honeypot tokens or files, that will notify you if someone opens them.
+[link](http://canarytokens.org/generate "Canary Tokens").
+
 ## **Sandboxes**
 
-* **URL Scan** - Scan different urls for malicious content
-[link](https://urlscan.io/ "URL scan")
+* **URL Scan** - Scan different urls for malicious content.
+[link](https://urlscan.io/ "URL scan").
 
-* **Hybrid Analysis** - Scan files and URLs. Check IPs, Domains, and Hashes. Powered by CrowdStrike Falcon
-[link](https://hybrid-analysis.com/ "Hybrid Analysis")
+* **Hybrid Analysis** - Scan files and URLs. Check IPs, Domains, and Hashes. Powered by CrowdStrike Falcon.
+[link](https://hybrid-analysis.com/ "Hybrid Analysis").
 
 * **Joe Sandbox** - Malware analysis on Windows and other OS. Requires registration. Free and paid versions are available. 
-[link](https://www.joesandbox.com/#windows "Joe Sandbox")
+[link](https://www.joesandbox.com/#windows "Joe Sandbox").
 
 * **Virus Total** - Scan files and URLs. Check IPs, Domains, and Hashes.
-[link](https://www.virustotal.com/gui/home/upload "Virus Total")
+[link](https://www.virustotal.com/gui/home/upload "Virus Total").
 
 * **SSL Labs** - Test your SSL certificate and website configuration.
-[link](https://www.ssllabs.com/ssltest/ "SSL Labs")
+[link](https://www.ssllabs.com/ssltest/ "SSL Labs").
 
 * **Cuckoo Sandbox** - Free sandbox appliance. 
-[link](https://cuckoosandbox.org/ "Cuckoo Sandbox")
+[link](https://cuckoosandbox.org/ "Cuckoo Sandbox").
+
+## **OSINT**
+
+* **Scan Factory Intelligence** - Open-Source Intel (OSINT) Resources.
+[link](https://in.scanfactory.io/intelligence.html "Open-Source Intel (OSINT) Resources").
+
+* **Scan Factory Intelligence Github** - Open-Source Intel (OSINT) Resources
+[link](https://github.com/ARPSyndicate/awesome-intelligence "Open-Source Intel (OSINT) Resources").
