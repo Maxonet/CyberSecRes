@@ -266,6 +266,12 @@ Developer Platform - Workers and Pages
 * **Cuckoo Sandbox** - Free sandbox appliance. 
 [link](https://cuckoosandbox.org/ "Cuckoo Sandbox").
 
+* **Any Run** - Interactive malware analysis.
+[link](https://app.any.run/ "Any Run").
+
+* **Triage** - Analyze malware samples free.
+[link](https://tria.ge/ "Triage").
+
 ## **OSINT**
 
 * **Scan Factory Intelligence** - Open-Source Intel (OSINT) Resources.

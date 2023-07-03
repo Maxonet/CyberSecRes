@@ -263,8 +263,14 @@ Developer Platform - Workers and Pages
 * **SSL Labs** - Test your SSL certificate and website configuration.
 [link](https://www.ssllabs.com/ssltest/ "SSL Labs").
 
-* **Cuckoo Sandbox** - Free sandbox appliance. 
+* **Cuckoo Sandbox** - Free sandbox appliance - not mainteined anymore. 
 [link](https://cuckoosandbox.org/ "Cuckoo Sandbox").
+
+* **Any Run** - Interactive malware analysis.
+[link](https://app.any.run/ "Any Run").
+
+* **Triage** - Analyze malware samples free.
+[link](https://tria.ge/ "Triage").
 
 ## **OSINT**
 
